@@ -1368,6 +1368,8 @@ nav {
     height: 70vh;
     min-height: 450px;
     padding-top: 80px;
+    justify-content: center;
+    display: flex;
   }
   
   .main-container {
@@ -1419,6 +1421,8 @@ nav {
   .main-content {
     height: 60vh;
     min-height: 400px;
+    justify-content: center;
+    display: flex;
   }
   
   .main-title {
@@ -1436,6 +1440,8 @@ nav {
   .main-content {
     height: 55vh;
     min-height: 350px;
+    justify-content: center;
+    display: flex;
   }
   
   .main-title {
@@ -1447,10 +1453,10 @@ nav {
   }
   
   .cta-button {
-    min-width: 180px;
+    min-width: 200px;
     height: 36px;
     line-height: 34px;
-    font-size: 14px;
+    font-size: 10px;
   }
   
   .logo img {
@@ -1464,6 +1470,8 @@ nav {
   .main-content {
     height: 55vh;
     min-height: 350px;
+    justify-content: center;
+    display: flex;
   }
   
   .main-title {
@@ -1475,10 +1483,10 @@ nav {
   }
 
   .cta-button {
-    min-width: 160px;
+    min-width: 200px;
     height: 32px;
     line-height: 30px;
-    font-size: 12px;
+    font-size: 10px;
   }
   
   .logo img {
