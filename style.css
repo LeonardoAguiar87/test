@@ -6,7 +6,7 @@
 
 html {
   scroll-behavior: smooth;
-  scroll-padding-top: 90px;
+  scroll-padding-top: 98px;
 }
 
 /* CORPO DA PÁGINA - AGORA CORRETO */
@@ -520,16 +520,6 @@ nav {
   color: #0C0C0C;
   margin-bottom: 30px;
   line-height: 1.5;
-}
-
-.cursos-obs {
-  font-size: 16px;
-  font-weight: 500;
-  font-family: 'Montserrat', sans-serif;
-  color: #F53535;
-  line-height: 1.5;
-  max-width: 800px;
-  margin: 0 auto;
 }
 
 /* SEÇÃO DE CARDS DE CURSOS - ATUALIZADA */
@@ -1665,10 +1655,6 @@ nav {
     font-size: 18px;
     margin-bottom: 20px;
   }
-  
-  .cursos-obs {
-    font-size: 15px;
-  }
 }
 
 @media (max-width: 480px) {
@@ -1691,9 +1677,6 @@ nav {
     font-size: 16px;
   }
   
-  .cursos-obs {
-    font-size: 14px;
-  }
 }
 
 @media (max-width: 400px) {
